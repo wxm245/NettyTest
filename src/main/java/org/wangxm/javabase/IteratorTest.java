@@ -1,10 +1,10 @@
-package org.wangxm;
+package org.wangxm.javabase;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class Test {
+public class IteratorTest {
     public static void main(String args[]) throws Exception
     {
 
